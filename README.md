@@ -1,6 +1,6 @@
 # Development
 
-  - This is for Development
+  - This i,s for Development
   - Owner : Sreekanth
   - JenkinsURL: ------http://localhost:8080/job/7amto8am-2/
   - ApplicationName : insurence
